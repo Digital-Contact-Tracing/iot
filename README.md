@@ -1,2 +1,2 @@
 # iot
-Crowd detection for combating COVID-19.
+Crowd detection and temperature tracking for combating COVID-19.
